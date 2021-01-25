@@ -1,3 +1,3 @@
-Exercícios práticos da UC de Sistemas Distribuídos do 3º Ano de MiEI @ Universidade do Minho (2020/21)
+# Distributed-Systems-Java
 
-Practical exercises on Distributed Systems, 3rd year of Integrated Master in Computing Engineering @ Universidade do Minho (2020/21)
+Practical exercises and final project on Distributed Systems, course unit of the 3rd year of the Integrated Master in Computer Engineering at Univerisdade do Minho.
